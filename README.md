@@ -4,5 +4,4 @@ Uma página de cadastro desenvolvida por mim, com um design super atualizado com
 
 Nesta atualização mudei cores de fundo.
 
-Espero que goste! - 
-
+Espero que goste! -  https://joao0028.github.io/Page-cadastro/
